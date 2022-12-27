@@ -236,3 +236,18 @@ input::-webkit-search-cancel-button {
     cursor: pointer;
 }
 
+.menu-Icon {
+    display:none;
+}
+
+.signIc {
+    display: none;
+}
+
+.iconSearch {
+    display: none;
+}
+
+.iconUsers {
+    display: none;
+}
